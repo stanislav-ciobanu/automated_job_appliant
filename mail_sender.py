@@ -33,7 +33,7 @@ TEXT_HTML_TEMPLATE = """
     <p> </p>
     <p>Kind regards,<br>
     Ciobanu Stanislav<br>
-    Phone: +373 76 76 21 97
+    Phone: +373 76 76 21 97<br>
     Email: stanislav.ciobanu@outlook.com</p>
   </body>
 </html>
