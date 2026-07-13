@@ -8,7 +8,7 @@ from email import encoders
 import pandas as pd
 
 MY_EMAIL = "sciobanu.work@gmail.com"
-APP_PASS = "zwjx wmls ypsl mwxm"
+APP_PASS = "xxxx xxxx xxxx xxxx"
 REPLY_TO_EMAIL = "stanislav.ciobanu@outlook.com"
 
 EXCEL_FILE = "list_emails_residents_mitp.xlsx"
